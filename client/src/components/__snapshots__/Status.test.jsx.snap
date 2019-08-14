@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-bdVaJa PybKf"
+>
+  <p>
+    Current First Name: 
+    <b>
+      
+    </b>
+  </p>
+  <p>
+    Current Last Name: 
+    <b>
+      
+    </b>
+  </p>
+  <p>
+    Current Email: 
+    <b>
+      
+    </b>
+  </p>
+  <p>
+    Current IBAN: 
+    <b>
+      UA903052992990004149123456789
+    </b>
+  </p>
+</div>
+`;
