@@ -6,7 +6,7 @@
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "iban": "^0.0.8"
   },
   "devDependencies": {},
